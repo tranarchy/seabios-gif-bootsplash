@@ -7,7 +7,7 @@ The GIF decoder used to achieve this is a modified version of [gifdec](https://g
 ## Demo
 
 <p align="center">
-  <img src="./demo.gif"/>
+  <img src="./demo.gif" width=50% height=50%/>
 </p>
 
 <p align="center">Demo on a Thinkpad X280</p>
